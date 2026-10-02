@@ -114,12 +114,26 @@ Extraídas do ledger de execuções — não são estimativas de marketing:
 
 ---
 
-## Demonstração
+## Demonstração e evidências
 
-| | |
+| Recurso | Arquivo |
 |---|---|
-| **Site do produto** | Apresentação interativa com narração neural pt-BR, dashboards e prova real |
-| **Vídeo de apresentação** | Tour narrado de 5:52 pela plataforma completa |
+| 🎬 Vídeo — tour do site (5:52, narrado) | [docs/VIDEO-SITE-ORCHESTRATOR.mp4](docs/VIDEO-SITE-ORCHESTRATOR.mp4) |
+| 🎬 Vídeo — apresentação em slides (6:07) | [docs/VIDEO-APRESENTACAO-SLIDES.mp4](docs/VIDEO-APRESENTACAO-SLIDES.mp4) |
+| 📄 Comparativo de custos (ROI) | [docs/Orquestrador_Comparativo_Custos.pdf](docs/Orquestrador_Comparativo_Custos.pdf) |
+
+### Artefatos reais gerados pelos agentes
+
+Documentos técnicos produzidos de ponta a ponta pela plataforma — evidência, não mockup:
+
+| Artefato | PDF |
+|---|---|
+| Relatório de auditoria OWASP (120 ocorrências / 16 arquivos) | [abrir](docs/artefatos-reais/relatorio-auditoria-seguranca-owasp.pdf) |
+| Parecer de conformidade LGPD (ROPA, bases legais) | [abrir](docs/artefatos-reais/parecer-conformidade-lgpd.pdf) |
+| Especificação de projeto BIM (FreeCAD→IFC4) | [abrir](docs/artefatos-reais/especificacao-projeto-bim.pdf) |
+| Análise estrutural FEM (CalculiX, validação analítica) | [abrir](docs/artefatos-reais/relatorio-analise-estrutural-fem.pdf) |
+| Projeto de PCB KiCad (placa IoT 2 camadas → Gerbers) | [abrir](docs/artefatos-reais/projeto-pcb-kicad.pdf) |
+| Plano de arquitetura de software (894 agentes, gate 960) | [abrir](docs/artefatos-reais/plano-arquitetura-software.pdf) |
 
 <img src="assets/site-hero.png" width="440" alt="Site — hero"/> <img src="assets/site-dashboards.png" width="440" alt="Site — dashboards"/>
 
